@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AJAX 간단 요약과, 요즘 근황"
-date:   2017-07-08 19:00:00 +0900
+date:   2017-08-06 23:00:00 +0900
 categories: study
 ---
 
