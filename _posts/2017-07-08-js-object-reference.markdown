@@ -2,7 +2,7 @@
 layout: post
 title:  "왜 자바스크립트에서는 객체는 참조만될까"
 date:   2017-07-08 21:00:00 +0900
-categories: javascript, study
+categories: javascript
 ---
 며칠전엔가 자바스크립트 공부하면서 객체에 대한 설명을 읽다가 이런 생각이 들었다
 

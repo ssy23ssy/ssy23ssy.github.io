@@ -25,8 +25,17 @@ github_username:  ssy23ssy
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
+
+pagination:
+    enabled: true
+    per_page: 2
+    limit: 0
+    sort_field: "date"
+    sort_reverse: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
