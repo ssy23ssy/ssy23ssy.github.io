@@ -3,7 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-# 이름: 신승륜(SEUNG RYUN, SHIN)
+# Name  신승륜(SHIN SEUNG RYUN)
+#### Birth  1995년 3월 13일
+#### History
+* 1995년 3월 13일 **도봉구** 출생
+* 
 
 ```ruby
 puts "Hello world!"
